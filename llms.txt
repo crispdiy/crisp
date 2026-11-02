@@ -1,6 +1,6 @@
 # Crisp
 
-> Crisp is the DIY AI app builder. Anyone can build apps and websites now, not just developers. Do it yourself. Say what you want in plain words and Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users. Try it as it is built, and publish it when it is ready.
+> Crisp is a website where you type the app or website you want, in your own words, and Crisp makes it for you. No coding, no developer, no team. Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users. You watch it being built, try it, and publish it when you are happy. Crisp is an AI app builder, and the DIY in its name means you do it yourself.
 
 Crisp is a hosted product at https://crisp.diy. There is nothing to install. It is not related to Crisp the customer messaging product at crisp.chat, and DIY here means do it yourself, not self-hosted.
 
