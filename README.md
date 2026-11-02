@@ -14,17 +14,21 @@ Crisp lives at [crisp.diy](https://crisp.diy). It runs in the browser, and there
 
 Not the Crisp you were looking for? [Crisp](https://crisp.chat) (crisp.chat) is an unrelated customer messaging and live chat product. [CRISPR](https://en.wikipedia.org/wiki/CRISPR) is a gene editing method. This repository is about Crisp the AI app builder at crisp.diy.
 
-## What does DIY mean in Crisp?
+## What is Crisp DIY?
 
-DIY means do it yourself. You build your own app or website, the way you would put together furniture or paint a room, without hiring anyone. Crisp does the technical work and you make the decisions.
+Crisp DIY is another name for Crisp, from its address crisp.diy. DIY means do it yourself. You build your own app or website without hiring anyone, the way you would put together furniture. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install.
 
-It does not mean self-hosted. In [bolt.diy](https://bolt.diy) the name means you run the tool on your own computer. In Crisp the name means you, a person without a developer, make the thing you need. Crisp is a hosted product at crisp.diy, and this repository is not a copy of it you can run.
+In [bolt.diy](https://bolt.diy) the name means you run the tool on your own computer. In Crisp the name means you, a person without a developer, make the thing you need. This repository is not a copy of Crisp you can run.
+
+## What is vibe coding?
+
+Vibe coding is building software by describing it in plain words and letting AI write the code. You say what you want, look at the result, and ask for changes until it is right. Crisp is a vibe coding platform made for people who have never written code. Read more on [vibe coding with Crisp](https://crisp.diy/vibe-coding).
 
 ## What is Crisp AI?
 
-Crisp AI is the part of Crisp that reads your words and turns them into a working app. You describe who uses the app, what they do and how it should feel. Crisp AI writes every page, sets up the data the app saves, adds sign-in for your users and shows you the result as it is made.
+Crisp AI is the part of Crisp that reads your words and builds the app. It writes every page, sets up the data the app saves, adds sign-in for your users, and fixes what you point out. You never pick a model or learn a special way to write prompts. You talk to it the way you would talk to a friend.
 
-You never see a prompt engineering screen or a model picker. You type the way you would explain the idea to a friend. When something is not right, you say so, and Crisp AI fixes it. You never pay for Crisp fixing its own mistakes.
+When something is not right, you say so, and Crisp AI fixes it. You never pay for Crisp fixing its own mistakes.
 
 The apps you build can use AI too. The built in [AI connector](https://crisp.diy/connectors/crisp-ai) gives your app chat helpers, summaries, classification, extraction and writing tools with Claude models, called through Crisp, with no API key to paste.
 
