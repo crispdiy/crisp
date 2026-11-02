@@ -9,6 +9,7 @@ Crisp is a hosted product at https://crisp.diy. There is nothing to install. It 
 - [Home](https://crisp.diy): what Crisp is and a box to describe your first app
 - [What you can build](https://crisp.diy/build): websites, mobile apps, booking apps, CRMs, dashboards and SaaS products
 - [Who it is for](https://crisp.diy/for): small businesses, agencies and freelancers, startups and students
+- [Vibe coding](https://crisp.diy/vibe-coding): what vibe coding is and how Crisp does it
 - [Pricing](https://crisp.diy/pricing): free to start, no credit card
 - [About](https://crisp.diy/about): why Crisp exists
 
