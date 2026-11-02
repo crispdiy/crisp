@@ -1,0 +1,52 @@
+# Crisp
+
+> Crisp is the DIY AI app builder. Anyone can build apps and websites now, not just developers. Do it yourself. Say what you want in plain words and Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users. Try it as it is built, and publish it when it is ready.
+
+Crisp is a hosted product at https://crisp.diy. There is nothing to install. It is not related to Crisp the customer messaging product at crisp.chat, and DIY here means do it yourself, not self-hosted.
+
+## Start here
+
+- [Home](https://crisp.diy): what Crisp is and a box to describe your first app
+- [What you can build](https://crisp.diy/build): websites, mobile apps, booking apps, CRMs, dashboards and SaaS products
+- [Who it is for](https://crisp.diy/for): small businesses, agencies and freelancers, startups and students
+- [Pricing](https://crisp.diy/pricing): free to start, no credit card
+- [About](https://crisp.diy/about): why Crisp exists
+
+## Docs
+
+- [Introduction](https://crisp.diy/docs/introduction)
+- [Quick start](https://crisp.diy/docs/quick-start)
+- [How a build works](https://crisp.diy/docs/how-a-build-works)
+- [Example prompts](https://crisp.diy/docs/example-prompts)
+- [Writing prompts](https://crisp.diy/docs/writing-prompts)
+- [Make changes](https://crisp.diy/docs/make-changes)
+- [Version history](https://crisp.diy/docs/version-history)
+- [App data](https://crisp.diy/docs/app-data)
+- [User sign-in](https://crisp.diy/docs/user-sign-in)
+- [Payments](https://crisp.diy/docs/payments)
+- [Connectors](https://crisp.diy/docs/connectors)
+- [Publish](https://crisp.diy/docs/publish)
+- [Custom domains](https://crisp.diy/docs/custom-domains)
+- [GitHub export](https://crisp.diy/docs/github)
+- [Ownership](https://crisp.diy/docs/ownership)
+- [FAQ](https://crisp.diy/docs/faq)
+- [Glossary](https://crisp.diy/docs/glossary)
+
+## Compare
+
+- [Crisp vs Lovable](https://crisp.diy/compare/lovable-alternative)
+- [Crisp vs Bolt](https://crisp.diy/compare/bolt-alternative)
+- [Crisp vs Replit](https://crisp.diy/compare/replit-alternative)
+- [Crisp vs v0](https://crisp.diy/compare/v0-alternative)
+- [Crisp vs Base44](https://crisp.diy/compare/base44-alternative)
+- [Crisp vs Emergent](https://crisp.diy/compare/emergent-alternative)
+
+## More
+
+- [Connectors](https://crisp.diy/connectors): every service a Crisp app can talk to
+- [Marketplace](https://crisp.diy/marketplace): apps people built with Crisp to start from
+- [Changelog](https://crisp.diy/changelog)
+- [Community](https://crisp.diy/community)
+- [Contact](https://crisp.diy/contact)
+- [Sitemap](https://crisp.diy/sitemap.xml)
+- [GitHub](https://github.com/crispdiy/crisp)
