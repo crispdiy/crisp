@@ -26,6 +26,8 @@ Crisp AI is the part of Crisp that reads your words and turns them into a workin
 
 You never see a prompt engineering screen or a model picker. You type the way you would explain the idea to a friend. When something is not right, you say so, and Crisp AI fixes it. You never pay for Crisp fixing its own mistakes.
 
+The apps you build can use AI too. The built in [AI connector](https://crisp.diy/connectors/crisp-ai) gives your app chat helpers, summaries, classification, extraction and writing tools with Claude models, called through Crisp, with no API key to paste.
+
 ## How Crisp works
 
 1. **Describe it.** Write what you want the way you would explain it to a friend. Who uses it, what they do, how it should feel.
