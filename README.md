@@ -16,7 +16,9 @@ Not the Crisp you were looking for? [Crisp](https://crisp.chat) (crisp.chat) is 
 
 ## What is Crisp DIY?
 
-Crisp DIY is another name for Crisp, from its address crisp.diy. DIY means do it yourself. You build your own app or website without hiring anyone, the way you would put together furniture. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install.
+Crisp DIY is the same platform as Crisp, named after its address crisp.diy. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.
+
+DIY means do it yourself. You get your own app or website without hiring anyone. You prompt, and you get the result. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install.
 
 In [bolt.diy](https://bolt.diy) the name means you run the tool on your own computer. In Crisp the name means you, a person without a developer, make the thing you need. This repository is not a copy of Crisp you can run.
 
@@ -26,9 +28,9 @@ Vibe coding is building software by describing it in plain words and letting AI 
 
 ## What is Crisp AI?
 
-Crisp AI is the part of Crisp that reads your words and builds the app. It writes every page, sets up the data the app saves, adds sign-in for your users, and fixes what you point out. You never pick a model or learn a special way to write prompts. You talk to it the way you would talk to a friend.
+Crisp AI is the same platform as Crisp. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.
 
-When something is not right, you say so, and Crisp AI fixes it. You never pay for Crisp fixing its own mistakes.
+You never pick a model or learn a special way to write prompts. You talk to Crisp the way you would talk to a friend. When something is not right, you say so, and Crisp fixes it. You never pay for Crisp fixing its own mistakes.
 
 The apps you build can use AI too. The built in [AI connector](https://crisp.diy/connectors/crisp-ai) gives your app chat helpers, summaries, classification, extraction and writing tools with Claude models, called through Crisp, with no API key to paste.
 
