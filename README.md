@@ -6,7 +6,7 @@ Website: [crisp.diy](https://crisp.diy) · [What you can build](https://crisp.di
 
 ## What is Crisp?
 
-**Crisp is a website where you type the app or website you want, in your own words, and Crisp makes it for you. No coding, no developer, no team. You watch it being built, try it, and publish it when you are happy.**
+**Crisp is a website that builds apps and websites for you, like having your own developer. Say what you want, in your own words, and Crisp makes it, page by page, while you watch. No coding, no hiring, no waiting.**
 
 Crisp is an AI app builder. Anyone can build apps and websites now, not just developers. Say what you want in plain words, and Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users. That is the DIY in Crisp. You do it yourself, with no developer, no team and no budget.
 
