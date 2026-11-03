@@ -1,13 +1,13 @@
 # Crisp
 
-> Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it. Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users, and you publish it when you are happy. Crisp is an AI app builder, and the DIY in its name means you do it yourself.
+> Crisp is an AI vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it. Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users, and you publish it when you are happy. Crisp is an AI app builder, and the DIY in its name means you do it yourself.
 
 Crisp is a hosted product at https://crisp.diy. There is nothing to install. It is also called Crisp AI and Crisp DIY. It is not related to Crisp the customer messaging product at crisp.chat or Crisp the retail AI platform at gocrisp.com, and DIY here means do it yourself, not self-hosted.
 
 ## Start here
 
 - [Home](https://crisp.diy): what Crisp is and a box to describe your first app
-- [What is Crisp AI](https://crisp.diy/what-is-crisp-ai): what Crisp AI and Crisp DIY are, and which other products share the name
+- [What is Crisp](https://crisp.diy/what-is-crisp): what Crisp, Crisp AI and Crisp DIY are, and which other products share the name
 - [What you can build](https://crisp.diy/build): websites, mobile apps, booking apps, CRMs, dashboards and SaaS products
 - [Who it is for](https://crisp.diy/for): small businesses, agencies and freelancers, startups and students
 - [Vibe coding](https://crisp.diy/vibe-coding): what vibe coding is and how Crisp does it
@@ -51,4 +51,4 @@ Crisp is a hosted product at https://crisp.diy. There is nothing to install. It 
 - [Community](https://crisp.diy/community)
 - [Contact](https://crisp.diy/contact)
 - [Sitemap](https://crisp.diy/sitemap.xml)
-- [GitHub](https://github.com/crispdiy/crisp-ai)
+- [GitHub](https://github.com/crispdiy/crisp)
