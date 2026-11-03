@@ -1,8 +1,8 @@
 # Crisp
 
-**Anyone can build apps and websites now.**
+**Anyone can build apps and websites now.** Crisp is also known as Crisp AI and Crisp DIY.
 
-Website: [crisp.diy](https://crisp.diy) · [What you can build](https://crisp.diy/build) · [Docs](https://crisp.diy/docs) · [Pricing](https://crisp.diy/pricing) · [Compare](https://crisp.diy/compare) · [About](https://crisp.diy/about)
+Website: [crisp.diy](https://crisp.diy) · [What is Crisp AI](https://crisp.diy/what-is-crisp-ai) · [What you can build](https://crisp.diy/build) · [Docs](https://crisp.diy/docs) · [Pricing](https://crisp.diy/pricing) · [Compare](https://crisp.diy/compare) · [About](https://crisp.diy/about)
 
 ## What is Crisp?
 
@@ -14,29 +14,31 @@ DIY means you do it yourself, without a developer. You do not write code or put 
 
 Crisp lives at [crisp.diy](https://crisp.diy). It runs in the browser, and there is nothing to install.
 
-Not the Crisp you were looking for? [Crisp](https://crisp.chat) (crisp.chat) is an unrelated customer messaging and live chat product. [CRISPR](https://en.wikipedia.org/wiki/CRISPR) is a gene editing method. This repository is about Crisp the AI app builder at crisp.diy.
+Not the Crisp you were looking for? [Crisp](https://crisp.chat) at crisp.chat is an unrelated customer support and messaging platform. [Crisp](https://www.gocrisp.com) at gocrisp.com is an unrelated AI platform for retailers and consumer goods companies. [CRISPR](https://en.wikipedia.org/wiki/CRISPR) is a gene editing method. This repository is about Crisp the AI app builder at crisp.diy.
 
 ## What is Crisp AI?
 
-Crisp AI is the same platform as Crisp. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.
+**Crisp AI is an AI app builder at [crisp.diy](https://crisp.diy). You say what you want in plain words, and it builds the whole app or website.** It is not the customer support AI from crisp.chat or the retail AI from gocrisp.com.
 
-DIY means you do it yourself, without a developer. You do not write code or put anything together. You say what you want and Crisp does the work, the way you book your own trip online instead of calling a travel agent.
+Crisp AI is the same platform as Crisp. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it. DIY means you make it yourself, without a developer.
 
-You never pick a model or learn a special way to write prompts. You talk to Crisp the way you would talk to a friend. When something is not right, you say so, and Crisp fixes it. You never pay for Crisp fixing its own mistakes.
+With Crisp AI, you never pick a model or learn a special way to write prompts. You talk to it the way you would talk to a friend. When something is not right, you say so, and Crisp AI fixes it. You never pay for Crisp fixing its own mistakes.
 
 The apps you build can use AI too. The built in [AI connector](https://crisp.diy/connectors/crisp-ai) gives your app chat helpers, summaries, classification, extraction and writing tools with Claude models, called through Crisp, with no API key to paste.
+
+The full answer is on the [What is Crisp AI](https://crisp.diy/what-is-crisp-ai) page.
 
 ## What is Crisp DIY?
 
 Crisp DIY is the same platform as Crisp, named after its address crisp.diy. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.
 
-DIY means you do it yourself, without a developer. You do not write code or put anything together. You say what you want and Crisp does the work, the way you book your own trip online instead of calling a travel agent. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install.
+DIY stands for do it yourself. Here it means no developer and no code to write. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install. Read more on [what Crisp DIY means](https://crisp.diy/what-is-crisp-ai#crisp-diy).
 
 ## What is vibe coding?
 
-Vibe coding is building software yourself by describing it in plain words and letting AI write the code. You say what you want, look at the result, and ask for changes until it is right. Nobody is hired, the way you book your own trip online instead of calling a travel agent. Crisp is a DIY vibe coding platform made for people who have never written code. Read more on [vibe coding with Crisp](https://crisp.diy/vibe-coding).
+Vibe coding is building software yourself by describing it in plain words and letting AI write the code. You say what you want, look at the result, and ask for changes until it is right. Nobody is hired. Crisp is a DIY vibe coding platform made for people who have never written code. Read more on [vibe coding with Crisp](https://crisp.diy/vibe-coding).
 
-## How Crisp works
+## How Crisp AI works
 
 1. **Describe it.** Write what you want the way you would explain it to a friend. Who uses it, what they do, how it should feel.
 2. **Watch it come together.** Every screen, every saved record, every button that works appears as it is made. Nothing to set up, nothing to install.
@@ -67,6 +69,30 @@ Some things people have typed into Crisp:
 
 More in [prompts.md](./prompts.md) and in the [example prompts](https://crisp.diy/docs/example-prompts) in the docs.
 
+## From one prompt to a working app
+
+These are two prompts from the Crisp site and what Crisp AI builds from each one. It then opens the app in a real browser, tests it, and fixes what fails before it says it is done.
+
+**A website for a small bakery**
+
+> A website for my bakery, Flour and Fig. A home page with photos and opening hours, a menu page I can edit, and a form to order a cake for pickup with a date and a message on the cake. Give me a private page to see and mark orders as ready.
+
+- A home page, a menu page and an order page, with a navigation bar that works on phones
+- A database for menu items and cake orders, filled with realistic sample records
+- An order form that checks the pickup date and the required fields
+- A private orders page behind sign-in, where you mark an order as ready
+- Colours and fonts chosen for a bakery, in a light and a dark theme
+
+**A booking app for a yoga studio**
+
+> A booking app for my yoga studio. Show this week's classes with the teacher and the places left. People book a place with their name and email and pay a 5 dollar deposit. Stop bookings when a class is full. Send a reminder email the day before, and give me a page to see who booked each class and cancel a booking.
+
+- A week view of classes with the teacher and the number of places left
+- A booking form that stops when a class is full
+- A deposit through Stripe, with paid and unpaid bookings in your list
+- A reminder email the day before each class
+- A private page to see each class list and cancel a booking
+
 ## Who is Crisp for?
 
 Crisp is for [small businesses](https://crisp.diy/for/small-businesses), [agencies and freelancers](https://crisp.diy/for/agencies-and-freelancers), [startups](https://crisp.diy/for/startups) and [students](https://crisp.diy/for/students). It is for anyone who has needed an app and did not have a developer.
@@ -79,11 +105,11 @@ No. You write in plain words. If you do know how to code, the code is all readab
 
 Everything Crisp builds belongs to you. Export the code to GitHub whenever you want and take it anywhere. Your users' data stays in your app. Read more on [ownership](https://crisp.diy/docs/ownership).
 
-## What does Crisp cost?
+## What does Crisp AI cost?
 
 You can start for free, and no credit card is required. The Free plan includes a monthly amount of AI usage, enough to build and try your first apps. You always see what a request costs while it runs. Every detail is on the [pricing page](https://crisp.diy/pricing).
 
-## Crisp compared to other AI app builders
+## Crisp AI compared to other AI app builders
 
 Crisp is often compared with Lovable, Bolt, Replit, v0, Base44 and Emergent. The difference is who Crisp is for. Those tools are mostly for people who already build software and want to go faster. Crisp is for people who have never built software and want the app anyway. The comparisons are on the [compare pages](https://crisp.diy/compare).
 
