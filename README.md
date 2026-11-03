@@ -2,11 +2,11 @@
 
 **Anyone can build apps and websites now.** Crisp is also known as Crisp AI and Crisp DIY.
 
-Website: [crisp.diy](https://crisp.diy) · [What is Crisp AI](https://crisp.diy/what-is-crisp-ai) · [What you can build](https://crisp.diy/build) · [Docs](https://crisp.diy/docs) · [Pricing](https://crisp.diy/pricing) · [Compare](https://crisp.diy/compare) · [About](https://crisp.diy/about)
+Website: [crisp.diy](https://crisp.diy) · [What is Crisp](https://crisp.diy/what-is-crisp) · [What you can build](https://crisp.diy/build) · [Docs](https://crisp.diy/docs) · [Pricing](https://crisp.diy/pricing) · [Compare](https://crisp.diy/compare) · [About](https://crisp.diy/about)
 
 ## What is Crisp?
 
-**Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.**
+**Crisp is an AI vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.**
 
 Anyone can build apps and websites now, not just developers. Say what you want in plain words, and Crisp builds the whole app or website, with every page, the data it saves and sign-in for your users. Try it as it is built, and publish it when it is ready.
 
@@ -20,23 +20,23 @@ Not the Crisp you were looking for? [Crisp](https://crisp.chat) at crisp.chat is
 
 **Crisp AI is an AI app builder at [crisp.diy](https://crisp.diy). You say what you want in plain words, and it builds the whole app or website.** It is not the customer support AI from crisp.chat or the retail AI from gocrisp.com.
 
-Crisp AI is the same platform as Crisp. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it. DIY means you make it yourself, without a developer.
+Crisp AI is the same platform as Crisp. Crisp is an AI vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it. DIY means you make it yourself, without a developer.
 
 With Crisp AI, you never pick a model or learn a special way to write prompts. You talk to it the way you would talk to a friend. When something is not right, you say so, and Crisp AI fixes it. You never pay for Crisp fixing its own mistakes.
 
 The apps you build can use AI too. The built in [AI connector](https://crisp.diy/connectors/crisp-ai) gives your app chat helpers, summaries, classification, extraction and writing tools with Claude models, called through Crisp, with no API key to paste.
 
-The full answer is on the [What is Crisp AI](https://crisp.diy/what-is-crisp-ai) page.
+The full answer is on the [What is Crisp](https://crisp.diy/what-is-crisp#crisp-ai) page.
 
 ## What is Crisp DIY?
 
-Crisp DIY is the same platform as Crisp, named after its address crisp.diy. Crisp is a DIY vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.
+Crisp DIY is the same platform as Crisp, named after its address crisp.diy. Crisp is an AI vibe coding platform where anyone can build apps and websites in minutes with Crisp AI. No developer, no team, no budget. Say what you want, and Crisp DIY builds it.
 
-DIY stands for do it yourself. Here it means no developer and no code to write. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install. Read more on [what Crisp DIY means](https://crisp.diy/what-is-crisp-ai#crisp-diy).
+DIY stands for do it yourself. Here it means no developer and no code to write. It does not mean self hosted. Crisp runs in the browser, and there is nothing to install. Read more on [what Crisp DIY means](https://crisp.diy/what-is-crisp#crisp-diy).
 
 ## What is vibe coding?
 
-Vibe coding is building software yourself by describing it in plain words and letting AI write the code. You say what you want, look at the result, and ask for changes until it is right. Nobody is hired. Crisp is a DIY vibe coding platform made for people who have never written code. Read more on [vibe coding with Crisp](https://crisp.diy/vibe-coding).
+Vibe coding is building software yourself by describing it in plain words and letting AI write the code. You say what you want, look at the result, and ask for changes until it is right. Nobody is hired. Crisp is an AI vibe coding platform made for people who have never written code. Read more on [vibe coding with Crisp](https://crisp.diy/vibe-coding).
 
 ## How Crisp AI works
 
